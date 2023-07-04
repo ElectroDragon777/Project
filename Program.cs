@@ -9,7 +9,6 @@ namespace Project
         {
             Stack<string>stack = new Stack<string>();
             Console.WriteLine(" == Welcome to the project! ==");
-            Console.WriteLine(" == Welcome to the project! ==");
             Console.WriteLine(" - Exercise 1: String mirror using Stack -");
             Console.Write("String to mirror (Use spaces to separate if it is multiple words): ");
             string str1 = Console.ReadLine();
